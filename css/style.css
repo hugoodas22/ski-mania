@@ -1,0 +1,15 @@
+@import "components/container.css";
+@import "components/avatar.css";
+@import "components/button.css";
+@import "components/banner.css";
+@import "components/card.css";
+
+ body {
+ 	font-family: 'Questrial', serif;
+ 	font-size: 18px;
+ }
+
+ h1, h2, h3 {
+ 	font-family: 'Roboto', sans-serif;
+ 	font-weight: bold;
+ }
